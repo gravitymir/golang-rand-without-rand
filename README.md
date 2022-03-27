@@ -1,0 +1,1 @@
+# golang-rand-without-rand
